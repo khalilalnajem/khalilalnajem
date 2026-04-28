@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1500&color=111111&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Building+Arabic+AI+for+the+Gulf;Shipping+Sanad+%28%D8%B3%D9%86%D8%AF%29;Researching+LLMs+%2B+Founders)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Building+Arabic+AI+for+the+Gulf;Shipping+Sanad+%28%D8%B3%D9%86%D8%AF%29;Researching+LLMs+%2B+Founders)](https://git.io/typing-svg)
 
 ---
 
