@@ -1,34 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Building+Arabic+AI+for+the+Gulf;Shipping+Sanad+%28%D8%B3%D9%86%D8%AF%29;Researching+LLMs+%2B+Founders)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=888888&center=true&vCenter=true&width=700&lines=Building+Arabic+AI+for+the+Gulf;Shipping+Sanad+%28%D8%B3%D9%86%D8%AF%29;Researching+LLMs+%2B+Founders)
+
+<h1 align="center">Khalil Alnajem</h1>
+
+<p align="center">
+  Kuwaiti · Based in the UK · Building AI products for Arabic speakers
+</p>
+
+<p align="center">
+  <a href="https://khalilalnajem.com"><img src="https://img.shields.io/badge/Portfolio-khalilalnajem.com-111111?style=flat&logo=google-chrome&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/khalilalnajem"><img src="https://img.shields.io/badge/LinkedIn-khalilalnajem-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:khalilalnajem@gmail.com"><img src="https://img.shields.io/badge/Email-khalilalnajem@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-# Khalil Alnajem
-
-I'm Kuwaiti, based in the UK. I build AI products for Arabic speakers — a market that most of the industry ignores.
-
-I work as an AI-native operator: I architect what gets built, direct agents and engineers, and ship products end-to-end.
+I build AI products for Arabic speakers — a market most of the industry ignores. I work as an AI-native operator: I architect what gets built, direct the build end-to-end, and ship.
 
 ---
 
 ### What I'm building
 
-**Sanad (سند)** — *in development*
-
-An Arabic AI in Kuwaiti Gulf dialect. A سند — a pillar for personal clarity and self-development, built for Gulf Arab youth.
-
-Multi-agent architecture: a conductor orchestrates crisis detection, semantic knowledge retrieval (RAG), reflection, prayer times, and a 105-scenario values assessment — all in real-time. Gemini 2.5 Pro + Flash. React 19 frontend, RTL-first, IBM Plex Sans Arabic.
-
-**Raneen (رنين)**
-
-A pure-tone frequency generator for meditation and focus. Browser-based, offline-capable, built entirely on the Web Audio API — no backend, no dependencies.
+| Project | What it is | Status |
+|---|---|---|
+| **Sanad (سند)** | Arabic AI in Kuwaiti dialect — a pillar for personal clarity and self-development, for Gulf Arab youth. Multi-agent conductor: crisis detection, RAG, reflection, values assessment. Gemini 2.5 Pro + Flash, React 19, RTL-first. | In development |
+| **Raneen (رنين)** | Pure-tone frequency generator for meditation and focus. Web Audio API, offline-capable, zero backend. | Shipped |
 
 ---
 
 ### Research
 
-*Large Language Models as Decision-Support for Early-Stage Founders: A Systematic Literature Review of AI-Augmented Opportunity Recognition*
-PRISMA methodology — 64 sources, ABS-ranked journals.
+*Large Language Models as Decision-Support for Early-Stage Founders*
+— PRISMA systematic literature review, 64 ABS-ranked sources
 
 ---
 
-→ [khalilalnajem.com](https://khalilalnajem.com)
+### Stack I direct builds in
+
+`Node.js` `React` `Python` `Gemini` `Qdrant` `Railway` `Cloudflare`
+
+---
+
+<p align="center">
+  <a href="https://khalilalnajem.com">khalilalnajem.com →</a>
+</p>
