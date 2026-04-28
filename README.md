@@ -8,7 +8,7 @@ I'm Kuwaiti, based in the UK. I work at the intersection of Arabic language, AI,
 
 ### What I'm building
 
-**[Sanad](https://sanad.khalilalnajem.com)**  
+**Sanad** *(in development)*  
 An Arabic AI in Kuwaiti Gulf dialect. A سند — a pillar for personal clarity and self-development, built for Gulf Arab youth.
 
 **Raneen**  
